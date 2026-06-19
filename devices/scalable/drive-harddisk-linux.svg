@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>devices/512/drive-harddisk-linux</title>
+    <defs>
+        <filter x="-8.3%" y="-8.3%" width="116.6%" height="116.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="98.3645947%" y1="45.7041129%" x2="1.49409629%" y2="45.7041129%" id="linearGradient-2">
+            <stop stop-color="#0080FF" offset="0%"></stop>
+            <stop stop-color="#47C5FF" offset="16.0702842%"></stop>
+            <stop stop-color="#47C5FF" offset="84.2409388%"></stop>
+            <stop stop-color="#0080FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.9370173%" y1="7.11107254%" x2="48.9370173%" y2="93.8104625%" id="linearGradient-3">
+            <stop stop-color="#E3F2FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#BEDEFF" offset="0%"></stop>
+            <stop stop-color="#E2EDFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="341.333333" width="469.333333" height="128" rx="64"></rect>
+        <filter x="-3.0%" y="-10.9%" width="106.0%" height="121.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="-28" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.188126571 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#6AD3FE" offset="0%"></stop>
+            <stop stop-color="#1C7DFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#BBD4FF" offset="0%"></stop>
+            <stop stop-color="#EAF2FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-9" cx="384" cy="405.333333" r="21.3333333"></circle>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.419607843   0 0 0 0 0.82745098  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-11">
+            <stop stop-color="#48DAFF" offset="0%"></stop>
+            <stop stop-color="#1C7DFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-12" x="53.3333333" y="384" width="10.6666667" height="42.6666667" rx="5.33333333"></rect>
+        <filter x="-56.2%" y="-14.1%" width="212.5%" height="128.1%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0561201886   0 0 0 0 0.496981392   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-14" x="96" y="384" width="10.6666667" height="42.6666667" rx="5.33333333"></rect>
+        <filter x="-56.2%" y="-14.1%" width="212.5%" height="128.1%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0561201886   0 0 0 0 0.496981392   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-16" x="74.6666667" y="384" width="10.6666667" height="42.6666667" rx="5.33333333"></rect>
+        <filter x="-56.2%" y="-14.1%" width="212.5%" height="128.1%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0561201886   0 0 0 0 0.496981392   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-18" x="117.333333" y="384" width="10.6666667" height="42.6666667" rx="5.33333333"></rect>
+        <filter x="-56.2%" y="-14.1%" width="212.5%" height="128.1%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0561201886   0 0 0 0 0.496981392   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="21.4591807%" id="linearGradient-20">
+            <stop stop-color="#FFFFFF" stop-opacity="0.803140707" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.900761104" offset="100%"></stop>
+        </linearGradient>
+        <path d="M311.954615,237.766878 C310.903381,234.63603 301.762218,230.70533 298.882752,224.420781 C296.003286,218.136232 298.357135,214.754002 293.923671,211.6003 C293.329496,211.166095 292.666762,210.914713 291.958322,210.754743 C293.512319,206.64122 293.558025,201.019405 293.352349,193.615063 C292.826732,174.258652 284.371157,162.649375 279.823428,156.981854 C274.384437,150.194541 272.510498,147.635016 268.328416,141.053379 C264.283452,134.700271 259.987106,126.884577 259.849988,118.474707 C259.667165,108.533693 259.324371,97.1072399 254.616673,88.4916943 C249.908974,79.8761486 238.208286,71.3748674 221.662782,75.9454487 C203.974632,80.8359707 203.540427,95.7132127 202.763428,106.705461 C201.986429,117.697709 206.991216,125.513402 202.786281,139.407969 C198.581346,153.302537 191.268416,158.467293 187.749069,165.43743 C179.042112,182.691374 177.191026,184.222519 173.374591,193.112299 C169.146803,202.916196 172.323357,208.720834 172.323357,208.720834 L172.50618,209.200745 C170.997889,211.9888 170.198037,214.776854 168.41551,215.531 C164.850457,217.039292 156.394881,214.754002 153.515415,217.633468 C150.635949,220.512934 154.909442,237.949701 152.989798,241.171961 C151.070154,244.394221 149.333333,244.302809 149.333333,249.536125 C149.333333,254.76944 155.092266,254.243824 177.579526,261.830989 C200.066785,269.418153 204.248867,267.315686 209.482183,260.779755 C210.350593,259.705668 210.899063,258.517317 211.219004,257.260407 C218.097728,256.643379 225.045012,256.094909 229.089976,256.072056 C238.071168,256.02635 250.640267,258.860111 256.490611,260.299844 C257.336168,262.562282 258.570225,264.390514 260.215635,265.236072 C264.923333,267.589921 275.915581,267.338539 282.451513,261.05399 C288.987444,254.76944 305.464389,246.679512 307.566857,244.577044 C309.669324,242.474577 312.982995,240.897726 311.954615,237.766878 L311.954615,237.766878 Z M217.823493,117.103533 C217.572112,114.132655 215.949555,111.870217 214.189881,112.007335 C212.430208,112.144452 211.196151,114.681125 211.447533,117.62915 C211.58465,119.274559 212.155973,120.714292 212.932972,121.628408 C212.658737,121.87979 212.407355,122.108319 212.155973,122.336848 C210.87621,120.668586 209.802123,117.994796 209.527889,114.726831 C209.047977,109.082163 211.241856,104.648699 213.527147,104.465876 L213.687117,104.465876 L213.687117,102.774761 L213.687117,104.465876 C215.903849,104.465876 218.714757,108.35087 219.171815,113.926979 C219.263227,115.11533 219.240374,116.235123 219.148962,117.286356 C218.714757,117.469179 218.280552,117.674856 217.869199,117.880532 C217.846346,117.652003 217.846346,117.377768 217.823493,117.103533 L217.823493,117.103533 Z M214.541367,121.105748 L214.421367,121.225748 L214.541367,121.105748 Z M213.992897,121.608512 L213.872897,121.728512 C213.872897,121.608512 213.872897,121.608512 213.992897,121.608512 Z M211.264709,123.971054 C211.688239,123.571054 212.04118,123.171054 212.464709,122.771054 C212.04118,123.251054 211.688239,123.651054 211.264709,123.971054 Z M211.721768,123.559701 C212.121768,123.184701 212.521768,122.734701 212.921768,122.359701 C212.521768,122.809701 212.121768,123.184701 211.721768,123.559701 Z M215.469644,128.118634 C216.040967,127.638723 216.589437,127.135959 217.115053,126.656048 C219.560314,124.416463 221.205724,123.045289 223.399603,122.953877 C223.650985,122.931024 223.902367,122.931024 224.153749,122.931024 C227.878772,122.931024 231.649502,124.256493 236.768553,127.410194 C237.225611,127.684429 237.659816,127.935811 238.071168,128.187192 C236.928523,129.215573 235.557349,130.403924 233.980498,131.683687 C230.346886,134.631712 227.650243,136.459945 226.256216,137.236943 C225.227835,136.779885 223.353897,135.751504 220.565842,133.83186 C217.526406,131.729393 215.195409,129.764043 214.601234,129.169867 C214.829763,128.804221 215.126851,128.415722 215.469644,128.118634 L215.469644,128.118634 Z M237.408434,120.260102 C237.783434,120.620102 238.233434,120.980102 238.608434,121.340102 C238.233434,120.980102 237.858434,120.620102 237.408434,120.260102 Z M237.796934,111.527424 C235.603055,111.413159 233.52344,113.767009 233.157794,116.783592 C233.089235,117.263503 233.089235,117.743414 233.134941,118.17762 C232.289383,117.834826 231.443826,117.560591 230.621121,117.309209 C230.529709,116.303681 230.529709,115.252448 230.666827,114.201214 C230.986768,111.458865 232.060854,108.89934 233.637705,107.048254 C235.054585,105.402845 236.699994,104.488729 238.276845,104.488729 L238.505374,104.488729 C239.693725,104.557287 240.767811,105.12861 241.659075,106.202697 C243.281631,108.122341 244.012924,111.253189 243.624425,114.56686 C243.304484,117.309209 242.230397,119.868735 240.653547,121.71982 C240.584988,121.788379 240.516429,121.87979 240.447871,121.948349 L240.242195,121.811232 C239.922254,121.605555 239.602313,121.422732 239.282373,121.239909 C240.242195,120.280087 240.927782,118.840354 241.133458,117.194945 C241.453399,114.178361 239.990813,111.641688 237.796934,111.527424 L237.796934,111.527424 Z M239.499698,121.914292 C239.099698,121.554292 238.699698,121.074292 238.299698,120.714292 C238.766364,121.074292 239.166364,121.434292 239.499698,121.914292 Z M236.460261,120.028883 C236.09103,119.788883 235.629492,119.548883 235.260261,119.308883 C235.629492,119.548883 235.998723,119.788883 236.460261,120.028883 Z M235.614703,119.568957 C235.17834,119.328957 234.851067,119.208957 234.414703,118.968957 C234.851067,119.208957 235.287431,119.448957 235.614703,119.568957 Z M229.564241,117.42643 C229.684241,117.42643 229.804241,117.54643 230.044241,117.54643 C229.804241,117.42643 229.684241,117.42643 229.564241,117.42643 Z M241.625018,123.148349 C241.225018,122.773349 240.825018,122.323349 240.425018,121.948349 C240.825018,122.398349 241.225018,122.773349 241.625018,123.148349 Z M243.407545,124.128156 C243.054603,123.768156 242.631074,123.408156 242.207545,123.048156 C242.631074,123.408156 242.984015,123.768156 243.407545,124.128156 Z M242.836222,123.879642 C242.471004,123.510411 242.053613,123.048873 241.636222,122.679642 C242.053613,123.048873 242.471004,123.510411 242.836222,123.879642 Z M242.242046,123.513996 C241.858046,123.113996 241.474046,122.713996 241.042046,122.313996 C241.474046,122.713996 241.858046,123.113996 242.242046,123.513996 Z M249.086269,238.978082 C244.972746,242.725959 241.819045,244.279956 239.510902,245.742542 C235.191702,248.484891 228.221566,250.153153 220.977195,249.056214 C216.38376,248.370627 212.270237,246.450983 208.659478,244.279956 C207.791068,242.588841 206.922657,241.217667 206.282776,240.394962 C204.683072,238.269642 193.805089,222.889636 186.994923,213.291416 C186.629276,211.326066 186.446453,209.406421 186.469306,207.578189 C186.606424,196.334559 189.737272,183.194138 192.296797,180.108996 C193.073796,179.172026 198.787023,162.900757 200.135344,159.449968 C202.626311,153.165419 206.465599,145.78393 208.476655,141.464731 C209.847829,137.899678 210.053505,135.408711 209.870682,133.717596 C212.13312,136.071445 222.736868,144.069962 226.530451,144.069962 L226.59901,144.069962 C229.752711,144.001404 241.841898,134.151801 245.978274,129.626926 C246.366773,131.272335 248.400682,134.5403 249.703298,137.694002 C253.49688,146.88087 257.907491,164.066255 264.969039,173.595917 C265.44895,174.258652 266.637301,176.498236 266.86583,177.366647 C269.608179,187.216249 269.059709,194.666297 267.368594,209.292157 C266.614448,209.040775 265.746038,208.835099 264.603393,208.743687 C259.781429,208.355188 258.067461,210.320538 258.067461,210.320538 C258.067461,210.320538 257.793227,221.152815 257.26761,231.185241 C256.856257,231.642299 256.422052,232.099357 255.987847,232.556416 C253.519733,235.024529 251.234443,237.14985 249.086269,238.978082 L249.086269,238.978082 Z" id="path-21"></path>
+        <filter x="-49.1%" y="-27.1%" width="198.3%" height="183.3%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="28" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="22" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.396423561   0 0 0 0 0.792847122  0 0 0 0.532272659 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.231261909   0 0 0 0 0.608378709   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="devices/512/drive-harddisk-linux" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" filter="url(#filter-1)" transform="translate(21.333333, 21.333333)">
+            <rect id="蒙版" fill="url(#linearGradient-2)" x="0" y="0" width="469.333333" height="469.333333" rx="85.1612903"></rect>
+            <g id="蒙版">
+                <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <rect stroke="url(#linearGradient-4)" stroke-width="10.6666667" stroke-linejoin="square" x="5.33333333" y="346.666667" width="458.666667" height="117.333333" rx="58.6666667"></rect>
+            </g>
+            <g id="椭圆形">
+                <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <circle stroke="url(#linearGradient-8)" stroke-width="10.6666667" cx="384" cy="405.333333" r="26.6666667"></circle>
+            </g>
+            <g id="矩形">
+                <use fill="url(#linearGradient-11)" fill-rule="evenodd" xlink:href="#path-12"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+            </g>
+            <g id="矩形备份">
+                <use fill="url(#linearGradient-11)" fill-rule="evenodd" xlink:href="#path-14"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+            </g>
+            <g id="矩形备份-3">
+                <use fill="url(#linearGradient-11)" fill-rule="evenodd" xlink:href="#path-16"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+            </g>
+            <g id="矩形备份-2">
+                <use fill="url(#linearGradient-11)" fill-rule="evenodd" xlink:href="#path-18"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+            </g>
+            <g id="形状">
+                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                <use fill="url(#linearGradient-20)" fill-rule="evenodd" xlink:href="#path-21"></use>
+            </g>
+        </g>
+    </g>
+</svg>

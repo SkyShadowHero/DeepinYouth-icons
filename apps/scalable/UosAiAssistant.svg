@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apps/512/UosAiAssistant</title>
+    <defs>
+        <filter x="-8.2%" y="-6.2%" width="116.3%" height="116.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="108.214078%" y1="39.0940622%" x2="50%" y2="22.6773233%" id="linearGradient-2">
+            <stop stop-color="#6448FF" offset="0%"></stop>
+            <stop stop-color="#FF37DF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.56318058%" y1="59.477802%" x2="56.6767213%" y2="26.2923136%" id="linearGradient-3">
+            <stop stop-color="#FF02AA" offset="0%"></stop>
+            <stop stop-color="#FF8BF4" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="34.5476641%" x2="22.8225671%" y2="92.5161165%" id="linearGradient-4">
+            <stop stop-color="#FB6060" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FCA506" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="0" width="416" height="416" rx="80"></rect>
+        <filter x="-12.3%" y="-10.2%" width="124.6%" height="127.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.402470336   0 0 0 0 0.462433474   0 0 0 0 0.713599164  0 0 0 0.244004043 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="apps/512/UosAiAssistant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-3" filter="url(#filter-1)" transform="translate(48, 48)" fill-rule="nonzero">
+            <g id="矩形">
+                <use fill="url(#linearGradient-2)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-3)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+            </g>
+            <g id="编组-2" filter="url(#filter-6)" transform="translate(59.1228, 73.4821)" stroke-width="19">
+                <path d="M94.7397443,72.7702132 L94.7397443,136.006158 C94.7397443,145.964551 100.008951,155.179575 108.591365,160.230491 L215.761518,223.302193 C219.775137,225.664285 221.113964,230.83282 218.751872,234.846439 C217.962517,236.187695 216.817378,237.284338 215.443242,238.014951 L179.757057,256.988911 C168.164644,263.152473 154.192161,262.800441 142.924835,256.060938 L47.0013751,198.684727 C35.6880789,191.917727 28.7620316,179.704451 28.7620316,166.521774 L28.7620316,142.443963 C28.7620316,122.662758 39.1585986,104.337287 56.1383544,94.1891859 L93.3221425,71.9659669 C93.7663154,71.7005031 94.3415898,71.8453754 94.6070537,72.2895483 C94.6938901,72.4348426 94.7397443,72.6009472 94.7397443,72.7702132 Z" id="路径-70" stroke="#FDEEF9" stroke-linejoin="round" transform="translate(128.7532, 169.0193) rotate(-90) translate(-128.7532, -169.0193)"></path>
+                <path d="M102.536309,269.010449 C82.5621689,269.010449 64.0880198,258.804357 54.006342,241.561211 L31.7057514,204.452284 C31.4392129,204.008755 31.582692,203.433132 32.026221,203.166593 C32.1719647,203.079009 32.3387955,203.032736 32.5088316,203.032736 L95.7401083,203.032736 C105.698502,203.032736 114.913525,197.76353 119.964441,189.181116 L182.524874,82.8797021 C187.57579,74.2972876 196.790813,69.0280812 206.749207,69.0280812 L267.343749,69.0280812 C267.680733,69.0280812 267.991759,69.2090469 268.158288,69.5020081 L289.951369,107.840907 L289.951369,107.840907 C299.915889,125.349992 299.749354,146.852593 289.514835,164.205238 L243.781781,241.745711 C233.673343,258.884584 215.257933,269.010449 195.360157,269.010449 L102.536309,269.010449 Z" id="路径" stroke="#FFFFFF"></path>
+                <path d="M252.525791,75.1152389 L153.616526,14.6988166 C141.462617,7.27488385 126.151102,7.38135764 114.101613,14.9735969 L80.4486035,36.1779556 C76.0706262,38.9364668 74.7577895,44.7217338 77.5163006,49.0997111 C78.3135921,50.3650762 79.4022176,51.4211907 80.6911674,52.1797625 L187.587558,115.09035 C196.169972,120.141267 201.439179,129.35629 201.439179,139.314683 L201.439179,198.820004 C201.439179,199.33746 201.85866,199.756941 202.376116,199.756941 C202.54253,199.756941 202.705941,199.712618 202.849547,199.62853 L242.656911,176.319382 C259.88227,166.233097 270.46726,147.768956 270.46726,127.807841 L270.46726,107.098136 C270.46726,94.0394803 263.669914,81.9223673 252.525791,75.1152389 Z" id="路径-71" stroke="#FDEEF9" stroke-linejoin="round" transform="translate(168.9509, 101.5164) rotate(-90) translate(-168.9509, -101.5164)"></path>
+                <path d="M72.6205714,203.032736 C52.6464308,203.032736 34.1722817,192.10663 24.0906039,174.863485 L0.832997683,135.41746 C0.570183359,134.971714 0.718478626,134.397312 1.16422443,134.134498 C1.30840217,134.04949 1.47271927,134.004655 1.64009186,134.004655 L61.1396855,134.004655 C71.0980788,134.004655 80.3131021,128.735449 85.3640186,120.153034 L147.924451,13.8516209 C152.975367,5.26920633 162.190391,7.12144349e-15 172.148784,-3.55271368e-15 L236.497346,1.44328993e-15 C236.830972,-8.69283137e-15 237.139429,0.177406479 237.307199,0.465779418 L260.972568,41.1431806 L260.972568,41.1431806 C270.937088,58.6522653 269.833616,80.1548664 259.599097,97.507512 L213.866042,175.047984 C203.757605,192.186857 185.342195,203.032736 165.444419,203.032736 L72.6205714,203.032736 Z" id="路径" stroke="#FFFFFF" transform="translate(133.9444, 101.5164) rotate(180) translate(-133.9444, -101.5164)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>devices/512/camera</title>
+    <defs>
+        <filter x="-8.3%" y="-8.3%" width="116.6%" height="116.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="100%" y1="83.834358%" x2="0%" y2="83.834358%" id="linearGradient-2">
+            <stop stop-color="#A8BBCE" offset="0%"></stop>
+            <stop stop-color="#BFCDDB" offset="49.1735418%"></stop>
+            <stop stop-color="#A8BBCE" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="469.333333" height="469.333333" rx="85.1612903"></rect>
+        <linearGradient x1="50%" y1="2.27594394%" x2="50%" y2="96.8014603%" id="linearGradient-5">
+            <stop stop-color="#E9EEF2" offset="0%"></stop>
+            <stop stop-color="#DEE8F0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="0" y="0" width="469.333333" height="448" rx="85.1612903"></rect>
+        <filter x="-4.3%" y="-4.5%" width="108.5%" height="108.9%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="14" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-12" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.82783344   0 0 0 0 0.887781727   0 0 0 0 0.939165972  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="39.277%" y1="15.304%" x2="39.277%" y2="105.982%" id="linearGradient-9">
+            <stop stop-color="#091B42" offset="0%"></stop>
+            <stop stop-color="#111029" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-4.20461494%" x2="50%" y2="99.296737%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F1F5F9" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-11" cx="136.223339" cy="135.906233" rx="136.223339" ry="135.906233"></ellipse>
+        <filter x="-21.9%" y="-17.5%" width="143.7%" height="143.8%" filterUnits="objectBoundingBox" id="filter-12">
+            <feMorphology radius="11.5555556" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.613210937   0 0 0 0 0.688208222   0 0 0 0 0.756387572  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="45.902587%" gradientTransform="translate(0.500000,0.500000),scale(0.997716,1.000000),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-13">
+            <stop stop-color="#06012B" offset="0%"></stop>
+            <stop stop-color="#020730" offset="80.3903055%"></stop>
+            <stop stop-color="#1F2B42" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-15" cx="102.394046" cy="102.160188" rx="102.394046" ry="102.160188"></ellipse>
+        <filter x="-9.7%" y="-9.7%" width="119.4%" height="125.3%" filterUnits="objectBoundingBox" id="filter-16">
+            <feMorphology radius="13.8666667" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.291285375 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-9.7%" y="-9.7%" width="119.4%" height="125.3%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="-12" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.0360303759 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-18">
+            <stop stop-color="#1AFFD4" offset="0%"></stop>
+            <stop stop-color="#0707A4" offset="58.3569968%"></stop>
+            <stop stop-color="#15B2FF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-19" cx="136.516796" cy="136.516796" rx="73.0404781" ry="72.8803132"></ellipse>
+        <filter x="-4.1%" y="-4.1%" width="108.2%" height="108.2%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.583059031 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="-12" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.204676915 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-21">
+            <stop stop-color="#00228F" offset="0%"></stop>
+            <stop stop-color="#002F96" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="83.4996998%" id="linearGradient-22">
+            <stop stop-color="#FFFFFF" stop-opacity="0.393472738" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="83.4996998%" id="linearGradient-23">
+            <stop stop-color="#FFFFFF" stop-opacity="0.121855196" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.602248825" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="83.4996998%" id="linearGradient-24">
+            <stop stop-color="#FFFFFF" stop-opacity="0.121855196" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.602248825" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="35.3867054%" fx="50%" fy="35.3867054%" r="51.530695%" id="radialGradient-25">
+            <stop stop-color="#78DAFF" offset="0%"></stop>
+            <stop stop-color="#285BFF" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-26" cx="80" cy="69.3333333" r="26.6666667"></circle>
+        <filter x="-45.0%" y="-22.5%" width="190.0%" height="190.0%" filterUnits="objectBoundingBox" id="filter-27">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.100597888 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-28" x="384" y="352" width="32" height="10.6666667" rx="5.33333333"></rect>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-29">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-30" x="378.666667" y="368" width="42.6666667" height="10.6666667" rx="5.33333333"></rect>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-31">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-32" x="384" y="384" width="32" height="10.6666667" rx="5.33333333"></rect>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-33">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="devices/512/camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="相机" filter="url(#filter-1)" transform="translate(21.333333, 21.333333)">
+            <g id="编组">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="蒙版" fill="url(#linearGradient-2)" fill-rule="nonzero" xlink:href="#path-3"></use>
+                <mask id="mask-7" fill="white">
+                    <use xlink:href="#path-6"></use>
+                </mask>
+                <g id="蒙版" fill-rule="nonzero">
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-6"></use>
+                </g>
+            </g>
+            <g id="编组" transform="translate(98.149871, 76.816537)" fill-rule="nonzero">
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                    <ellipse stroke="url(#linearGradient-10)" stroke-width="11.5555556" fill="url(#linearGradient-9)" fill-rule="evenodd" cx="136.223339" cy="135.906233" rx="142.001116" ry="141.68401"></ellipse>
+                </g>
+                <g id="deepin-screenshot&amp;record-j" transform="translate(33.829292, 33.746044)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                    <use fill="url(#radialGradient-13)" xlink:href="#path-15"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-15"></use>
+                    <ellipse stroke="url(#linearGradient-14)" stroke-width="13.8666667" cx="102.394046" cy="102.160188" rx="109.32738" ry="109.093521"></ellipse>
+                </g>
+                <g id="椭圆形">
+                    <use fill="url(#linearGradient-18)" xlink:href="#path-19"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                </g>
+                <ellipse id="椭圆形" fill="url(#linearGradient-21)" cx="136.223339" cy="135.906233" rx="44.6097245" ry="44.5075422"></ellipse>
+                <ellipse id="椭圆形" fill="#131313" cx="136.516796" cy="136.516796" rx="28.9547491" ry="28.8888889"></ellipse>
+                <ellipse id="椭圆形" fill="url(#linearGradient-22)" cx="136.516796" cy="103.989496" rx="40.3584496" ry="35.7919662"></ellipse>
+                <ellipse id="椭圆形备份-2" fill="url(#linearGradient-23)" cx="136.516796" cy="193.556279" rx="13.9033634" ry="7.07412698"></ellipse>
+                <ellipse id="椭圆形备份-3" fill="url(#linearGradient-24)" cx="136.516796" cy="180.413775" rx="6.55593174" ry="3.33570318"></ellipse>
+            </g>
+            <g id="椭圆形备份">
+                <use fill="black" fill-opacity="1" filter="url(#filter-27)" xlink:href="#path-26"></use>
+                <use fill="url(#radialGradient-25)" fill-rule="evenodd" xlink:href="#path-26"></use>
+            </g>
+            <g id="矩形">
+                <use fill="#A8BBCE" fill-rule="evenodd" xlink:href="#path-28"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-29)" xlink:href="#path-28"></use>
+            </g>
+            <g id="矩形备份">
+                <use fill="#A8BBCE" fill-rule="evenodd" xlink:href="#path-30"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-31)" xlink:href="#path-30"></use>
+            </g>
+            <g id="矩形备份-2">
+                <use fill="#A8BBCE" fill-rule="evenodd" xlink:href="#path-32"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-33)" xlink:href="#path-32"></use>
+            </g>
+        </g>
+    </g>
+</svg>
