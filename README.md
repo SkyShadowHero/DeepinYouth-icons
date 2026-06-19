@@ -49,9 +49,9 @@ This icon theme is built upon the work of others. Special thanks to:
 
 | Project | Author | License | Link |
 |---------|--------|---------|------|
-| OSX_ONE | unc926 | *(to be confirmed)* | [GitHub](https://github.com/unc926/OSX_ONE) |
+| OSX_ONE | unc926 | CC BY 4.0 | [GitHub](https://github.com/unc926/OSX_ONE) |
 | Reversal | yeyushengfan258 | GPL-3.0 | [GitHub](https://github.com/yeyushengfan258/Reversal-icon-theme) |
-| Youth | *(to be confirmed)* | *(to be confirmed)* | *(to be confirmed)* |
+| Youth | *(author)* | CC BY 4.0 | *(link)* |
 | **DeepinYouth** | **SkyShadowHero** | **GPL-3.0** | *(this project)* |
 
 ## License
