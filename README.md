@@ -48,8 +48,9 @@ Then select **DeepinYouth** in your system settings.
 This icon theme is built upon the work of others. Special thanks to:
 
 | Project | Author | License | Link |
-|---------|--------|---------|------|
+|---------|--------|---------|------|s
 | Reversal | yeyushengfan258 | GPL-3.0 | [GitHub](https://github.com/yeyushengfan258/Reversal-icon-theme) |
+| deepin-icon-theme | linuxdeepin | GPL-3.0 | [GitHub](https://github.com/linuxdeepin/deepin-icon-theme) |
 
 ## License
 
